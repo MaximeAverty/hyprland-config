@@ -1,0 +1,10 @@
+[flavor]
+dark = "ashen"
+
+[manager]
+[manager.preview_hovered]
+bg = "none"
+
+[status]
+[status.separator_open]
+bg = "none"
