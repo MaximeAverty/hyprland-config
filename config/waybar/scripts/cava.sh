@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#I wait a little  bit cause i need pipWire to be init before
+sleep 3
 # Not my own work. Credit to original author
 
 #----- Optimized bars animation without much CPU usage increase --------
